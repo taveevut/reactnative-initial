@@ -1,6 +1,6 @@
 # React Native - Initial Project
 
-## Clone repo
+## Clone Repository
 
 ```bash
 $ git clone https://github.com/taveevut/reactnative-initial.git
